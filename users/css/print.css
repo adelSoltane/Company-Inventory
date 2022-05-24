@@ -1,0 +1,45 @@
+@media print
+{
+    header {
+        display: none;
+    }
+
+    a {
+        display: none;
+    }
+
+    div h2 {
+        display: none;
+    }
+
+    form {
+        display: none;
+    }
+
+    button {
+        display: none;
+    }
+
+    table tbody tr td a {
+        display: none;
+    }
+
+    table {
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+
+    td {
+        padding: 6px;
+    }
+
+    th {
+        padding: 8px;
+    }
+
+
+
+
+}
